@@ -18,6 +18,7 @@ Web缓存网包含以下服务特性：
 - 12.可申请个性二级域名
 - 13.使用国内外主流CDN厂商 (当前为阿里云CDN和Cloudflare CDN)
 
-
+ 
+另外，请记住我们的备用网址：https://www.upcache.cn
 
 
